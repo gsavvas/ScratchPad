@@ -6,6 +6,19 @@
   <link>https://www.w3schools.com</link>
   <description>Free web building tutorials</description>
   <item>
+    <title>Another new thing</title>
+    <link>https://www.chicagotribune.com</link>
+    <description>
+        <![CDATA[    
+
+          Know bla bla bla of 
+
+          <a href="http://www.YourWebSite.com">[ Read more...]</a>
+          <img src="http://www.openweathermap.org/themes/openweathermap/assets/vendor/owm/img/logo_OpenWeatherMap_orange.svg">         
+
+        ]]></description>
+  </item>
+  <item>
     <title>New item</title>
     <link>https://www.google.com/</link>
     <description>Place to search</description>

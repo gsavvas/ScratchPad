@@ -2,19 +2,14 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
-  <item>
-    <title>Yet another new thing</title>
-    <link>https://www.chicagotribune.com</link>
-    <description>more description</description>
-        <pubDate>Wed, 4 October 2017 22:10:59 GMT</pubDate>
-  </item>
+  <title>Fooda sample feed</title>
+  <link>https://www.fooda.com</link>
+  <description>Lunch</description>
+
 <item>
     <title>Another new thing</title>
     <link>https://www.chicagotribune.com</link>
-    <description>
+    <description> <![CDATA[  
 <table>
   <tr>
     <th>Item</th>
@@ -37,8 +32,8 @@
     <td>$9.99</td>
   </tr>
 
-</table></description>
-        <pubDate>Wed, 4 October 2017 21:57:59 GMT</pubDate>
+</table> ]]> </description>
+        <pubDate>Wed, 4 October 2017 22:12:00 GMT</pubDate>
   </item>
 <item>
     <title>Another new thing</title>

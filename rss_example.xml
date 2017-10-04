@@ -5,7 +5,13 @@
   <title>Fooda sample feed</title>
   <link>https://www.fooda.com</link>
   <description>Lunch</description>
-
+<item>
+    <title>Fooda image tag</title>
+    <link>https://app.fooda.com/accounts/23/select_events/S166755/items</link>
+    <description> <![CDATA[  
+This is just a little icon. <img src="https://www.fooda.com/sites/all/themes/fooda_apr2015/logo.png"> ]]> </description>
+        <pubDate>Wed, 4 October 2017 22:17:00 GMT</pubDate>
+  </item>
 <item>
     <title>Lunch at your place</title>
     <link>https://app.fooda.com/accounts/23/select_events/S163284/items</link>

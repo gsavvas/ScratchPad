@@ -6,6 +6,50 @@
   <link>https://www.fooda.com</link>
   <description>Lunch</description>
 <item>
+    <title>Lunch again</title>
+    <link>https://app.fooda.com/accounts/23/select_events/S163284/anotherlink</link>
+    <description> <![CDATA[ 
+    <style>
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+</style> 
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Description</th>
+    <th>Price</th>
+  </tr>
+  <tr>
+    <td>Chicken sandwich</td>
+    <td>a spicy chicken sandwich</td>
+    <td>$3.22</td>
+  </tr>
+  <tr>
+    <td>Veggie sandwich</td>
+    <td>eggplant and cheese</td>
+    <td>$5.66</td>
+  </tr>
+  <tr>
+    <td>Chicken shawarma plate</td>
+    <td>Lots of chicken on a plate with veggies</td>
+    <td>$9.99</td>
+  </tr>
+
+</table> ]]> </description>
+        <pubDate>Wed, 4 October 2017 22:35:00 GMT</pubDate>
+  </item>
+
+<item>
     <title>Fooda image tag</title>
     <link>https://app.fooda.com/accounts/23/select_events/S166755/items</link>
     <description> <![CDATA[  

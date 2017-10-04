@@ -9,9 +9,37 @@
     <title>Yet another new thing</title>
     <link>https://www.chicagotribune.com</link>
     <description>more description</description>
-        <pubDate>Wed, 4 October 2017 21:58:59 GMT</pubDate>
+        <pubDate>Wed, 4 October 2017 22:10:59 GMT</pubDate>
   </item>
+<item>
+    <title>Another new thing</title>
+    <link>https://www.chicagotribune.com</link>
+    <description>
+<table>
+  <tr>
+    <th>Item</th>
+    <th>Description</th>
+    <th>Price</th>
+  </tr>
+  <tr>
+    <td>Chicken sandwich</td>
+    <td>a spicy chicken sandwich</td>
+    <td>$3.22</td>
+  </tr>
+  <tr>
+    <td>Veggie sandwich</td>
+    <td>eggplant and cheese</td>
+    <td>$5.66</td>
+  </tr>
+  <tr>
+    <td>Chicken shawarma plate</td>
+    <td>Lots of chicken on a plate with veggies</td>
+    <td>$9.99</td>
+  </tr>
 
+</table></description>
+        <pubDate>Wed, 4 October 2017 21:57:59 GMT</pubDate>
+  </item>
 <item>
     <title>Another new thing</title>
     <link>https://www.chicagotribune.com</link>

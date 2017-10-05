@@ -5,7 +5,19 @@
   <title>Fooda sample feed</title>
   <link>https://www.fooda.com</link>
   <description>Lunch</description>
-<item>
+  <item>
+    <title>More lunch again</title>
+    <link>https://app.fooda.com/accounts/23/select_events/S163284/anotherlinkyeah</link>
+    <description> <![CDATA[ *we're really excited about lunch* _lunch_ is what *Fooda* does. ~dinner~, no.
+    
+    >love they neighbor as theyself
+    
+     ]]> </description>
+        <pubDate>Wed, 5 October 2017 01:57:00 GMT</pubDate>
+  </item>
+
+
+  <item>
     <title>Lunch again</title>
     <link>https://app.fooda.com/accounts/23/select_events/S163284/anotherlink</link>
     <description> <![CDATA[ 

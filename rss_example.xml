@@ -6,6 +6,24 @@
   <link>https://www.fooda.com</link>
   <description>Lunch</description>
   <item>
+    <title>Friday lunch</title>
+    <link>https://app.fooda.com/accounts/23/select_events/S166788/items</link>
+    <description> <![CDATA[ we're really excited about *lunch* _lunch_ is what *Fooda* does. We serve breakfast, lunch ~and dinner~, no.
+    
+    See your full menu <https://app.fooda.com/accounts/23/select_events/S166788/items|online>
+    
+    > what's for lunch? may be in quote format
+    
+    ``` does preformatted text work in this context?
+It is hard to say
+But probably not
+```
+
+     ]]> </description>
+        <pubDate>Thu, 5 October 2017 13:21:00 GMT</pubDate>
+  </item>
+
+  <item>
     <title>More lunch again</title>
     <link>https://app.fooda.com/accounts/23/select_events/S163284/anotherlinkyeah</link>
     <description> <![CDATA[ *we're really excited about lunch* _lunch_ is what *Fooda* does. ~dinner~, no.

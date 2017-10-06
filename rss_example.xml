@@ -1,169 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-
-<channel>
-  <title>Fooda sample feed</title>
-  <link>https://www.fooda.com</link>
-  <description>Lunch</description>
-  <item>
-    <title>Friday lunch 3</title>
-    <link>https://app.fooda.com/accounts/23/select_events/S166788/items</link>
-    <description> <![CDATA[ At *Fooda* we're really excited about *lunch*. _Lunch_ is what *Fooda* does. We serve breakfast, lunch ~and dinner~.
-    
-    See your full menu: https://app.fooda.com/accounts/23/select_events/S166788/items
-    
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam a erat non nunc consequat luctus. Mauris aliquet volutpat massa eu lacinia. Pellentesque in urna pharetra, volutpat libero ac, ultricies purus. Morbi nunc odio, interdum et tellus in, rhoncus pulvinar justo. Maecenas quis neque et urna porta vehicula ultricies eu nulla. Vestibulum commodo felis ac purus euismod, non venenatis mi consectetur. Nunc porta, odio egestas rhoncus vehicula, odio leo fermentum tellus, id laoreet tellus purus ut enim. In nec congue eros, ut tincidunt justo. Curabitur diam metus, dictum quis rutrum eu, bibendum sit amet est. Quisque ut aliquam dolor. Sed sit amet scelerisque ex. Phasellus ac fringilla ipsum. Donec id pellentesque enim, ut finibus erat.
-
-Nunc fringilla augue iaculis, consequat nulla non, venenatis elit. Quisque lorem felis, consectetur id eleifend in, sagittis nec odio. Etiam luctus neque a mi pretium, mattis sodales turpis gravida. Duis non molestie ligula, vitae efficitur sem. Aenean fermentum nisl non augue euismod, ut pharetra lorem ultricies. Morbi vitae ligula metus. Donec mattis sed purus nec congue. Nunc feugiat quam a dui eleifend, in dignissim risus venenatis. Nullam id accumsan metus, id convallis magna.
-
-Sed vehicula semper arcu, in aliquam elit elementum sed. Nullam at auctor nunc. Nam congue egestas ipsum, quis interdum augue semper a. Cras commodo at tortor molestie scelerisque. Quisque posuere euismod condimentum. Nullam vitae nunc massa. Integer bibendum nunc id imperdiet ullamcorper. Aliquam sem ex, cursus ac elit et, tempor sodales velit. Praesent in hendrerit urna. Phasellus ultricies mauris sit amet eros sollicitudin, non imperdiet risus malesuada. Suspendisse pellentesque eleifend mi eget maximus. Suspendisse non massa vulputate, elementum dui sit amet, lobortis ipsum. Integer volutpat, nulla vel dictum volutpat, arcu quam pharetra tortor, ut efficitur nulla purus in nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-Nunc ac orci diam. Nunc consectetur auctor nibh quis bibendum. Aliquam facilisis orci vehicula, porta ex a, finibus magna. Vestibulum eget dui eros. Mauris id interdum dolor. Proin eleifend auctor turpis eu posuere. Phasellus accumsan, tortor at suscipit venenatis, mi justo auctor lorem, non posuere turpis dui in est. Suspendisse tristique augue vel tortor ultricies, et consequat enim luctus.
-
-Duis finibus nunc id justo convallis pellentesque. Fusce lectus dui, fringilla nec leo a, lacinia ultricies lectus. In quis ligula lorem. In interdum tellus ligula, in pretium enim aliquet sit amet. Vestibulum eget iaculis augue. Curabitur elementum mi mauris, id auctor metus suscipit gravida. Aliquam ut odio nec sapien bibendum tincidunt. Nulla ultrices vulputate tortor id placerat.
-
-     ]]> </description>
-        <pubDate>Thu, 5 October 2017 15:04:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>Friday lunch 2</title>
-    <link>https://app.fooda.com/accounts/23/select_events/S166788/items</link>
-    <description> <![CDATA[ At *Fooda* we're really excited about *lunch*. _Lunch_ is what *Fooda* does. We serve breakfast, lunch ~and dinner~.
-    
-    See your full menu: https://app.fooda.com/accounts/23/select_events/S166788/items
-    
-    > what's for lunch? may be in quote format
-    
-    ``` does preformatted text work in this context?
-It is hard to say
-But probably not
-```
-
-     ]]> </description>
-        <pubDate>Thu, 5 October 2017 13:28:00 GMT</pubDate>
-  </item>
-
-  <item>
-    <title>More lunch again</title>
-    <link>https://app.fooda.com/accounts/23/select_events/S163284/anotherlinkyeah</link>
-    <description> <![CDATA[ *we're really excited about lunch* _lunch_ is what *Fooda* does. ~dinner~, no.
-    
-    >love they neighbor as theyself
-    
-     ]]> </description>
-        <pubDate>Wed, 5 October 2017 01:57:00 GMT</pubDate>
-  </item>
-
-
-  <item>
-    <title>Lunch again</title>
-    <link>https://app.fooda.com/accounts/23/select_events/S163284/anotherlink</link>
-    <description> <![CDATA[ 
-    <style>
-table, td, th {
-    border: 1px solid black;
-}
-
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-
-th {
-    height: 50px;
-}
-</style> 
-<table>
-  <tr>
-    <th>Item</th>
-    <th>Description</th>
-    <th>Price</th>
-  </tr>
-  <tr>
-    <td>Chicken sandwich</td>
-    <td>a spicy chicken sandwich</td>
-    <td>$3.22</td>
-  </tr>
-  <tr>
-    <td>Veggie sandwich</td>
-    <td>eggplant and cheese</td>
-    <td>$5.66</td>
-  </tr>
-  <tr>
-    <td>Chicken shawarma plate</td>
-    <td>Lots of chicken on a plate with veggies</td>
-    <td>$9.99</td>
-  </tr>
-
-</table> ]]> </description>
-        <pubDate>Wed, 4 October 2017 22:35:00 GMT</pubDate>
-  </item>
-
-<item>
-    <title>Fooda image tag</title>
-    <link>https://app.fooda.com/accounts/23/select_events/S166755/items</link>
-    <description> <![CDATA[  
-This is just a little icon. <img src="https://www.fooda.com/sites/all/themes/fooda_apr2015/logo.png"> ]]> </description>
-        <pubDate>Wed, 4 October 2017 22:17:00 GMT</pubDate>
-  </item>
-<item>
-    <title>Lunch at your place</title>
-    <link>https://app.fooda.com/accounts/23/select_events/S163284/items</link>
-    <description> <![CDATA[  
-<table>
-  <tr>
-    <th>Item</th>
-    <th>Description</th>
-    <th>Price</th>
-  </tr>
-  <tr>
-    <td>Chicken sandwich</td>
-    <td>a spicy chicken sandwich</td>
-    <td>$3.22</td>
-  </tr>
-  <tr>
-    <td>Veggie sandwich</td>
-    <td>eggplant and cheese</td>
-    <td>$5.66</td>
-  </tr>
-  <tr>
-    <td>Chicken shawarma plate</td>
-    <td>Lots of chicken on a plate with veggies</td>
-    <td>$9.99</td>
-  </tr>
-
-</table> ]]> </description>
-        <pubDate>Wed, 4 October 2017 22:12:00 GMT</pubDate>
-  </item>
-<item>
-    <title>Another new thing</title>
-    <link>https://www.chicagotribune.com</link>
-    <description>
-        <![CDATA[    
-
-          Know bla bla bla of 
-
-          <a href="http://www.YourWebSite.com">[ Read more...]</a>
-          <img src="http://www.openweathermap.org/themes/openweathermap/assets/vendor/owm/img/logo_OpenWeatherMap_orange.svg">         
-
-        ]]></description>
-        <pubDate>Wed, 4 October 2017 21:57:59 GMT</pubDate>
-  </item>
-  <item>
-    <title>New item</title>
-    <link>https://www.google.com/</link>
-    <description>Place to search</description>
-  </item>
-  <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
-  </item>
-</channel>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fooda</title>
+    <description>A workplace food program employees love and look forward to every day</description>
+    <link>https://app-staging-froyo.fooda.com/</link>
+    <language>en</language>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.fooda.com"/>
+    <item>
+      <title>Burrito Beach - Fooda Office from 01:00PM - 03:00PM</title>
+      <link>https://app-staging-froyo.fooda.com/accounts/23/popup/menu_page/P0001715/items</link>
+      <pubDate>2017-10-06</pubDate>
+      <guid isPermaLink="false">location_25_vendor_37_on_2017-10-06</guid>
+      <description>&lt;p&gt;Try Burrito Beach today - it's new!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;Appetizers • Bacon on the side $0 • Chicken and Jalapeno $0 • Homemade Salsa and Chips $0 • Hot $0 • Jack Cheese $0 • Medium $0 • Mild $0 • Nacho Bar $4 • Nacho Bar with Chicken $6 • Nacho Bar with Ground Beef $6 • Poblano Cheddar Chicken $0&lt;/p&gt;&lt;p&gt;Sides • Baja Chicken $0 • Black Beans $1 • Char-Grilled Skirt Steak $0 • Chipotle Honey Mustard $0 • Corn Tortillas $0 • Flour Tortillas $0 • Goat Cheese and Black Bean $0 • Grilled Vegetables $0 • Guacamole and Chips $1 • Guacamole + Chips $2 • Lettuce, Tomato, Corn Salsa, Jack Cheese  $0 • Red Rice $1 • Salsa Ranch $0 • Sour Cream $0 • Veggie Chili $5 • Veggie Chili $0&lt;/p&gt;&lt;p&gt;Entrees • Baja Chicken Burrito $6 • Black Angus Sirloin Steak Bowl $6 • Buffalo Chicken Bowl $6 • Char Grilled Chicken $0 • Char-Grilled Chicken Burrito $6 • Chicken + Jalapeno Quesadilla Combo $6 • Grilled Mixed Vegetables $0 • Grilled Vegetable Bowl $5 • Grilled Vegetable Burrito $5 • Ground Beef $0 • Jack Cheese Quesadilla Combo $5 • Mexican Organic Quinoa Salad $6 • Shrimp Taco Combo $7&lt;/p&gt;&lt;p&gt;Beverages • Bottled Water $1 • Canned Soda $1&lt;/p&gt;&lt;p&gt;Combinations • Burrito Platter $6 • Char-grilled Chicken Taco Combo $7 • Fiesta Taco Bar $7 • Quesadilla Beach Platter $6&lt;/p&gt;&lt;p&gt;Salads • Fiesta-Mexi Salad $5&lt;/p&gt;&lt;p&gt;Desserts • Sweet Beach Platter  $1&lt;/p&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>5411 Empanadas - Fooda Office from 08:50AM - 11:05AM</title>
+      <link>https://app-staging-froyo.fooda.com/accounts/23/popup/menu_page/P0001711/items</link>
+      <pubDate>2017-10-06</pubDate>
+      <guid isPermaLink="false">location_25_vendor_96_on_2017-10-06</guid>
+      <description>&lt;p&gt;Try 5411 Empanadas today - it's new!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;Appetizers • Bacon Date and Goat Cheese Empanada $2 • Banana and Nutella Empanada $2 • BBQ Chicken Empanada $2 • Beef Empanada $2 • Caramelized Onion Empanada $2 • Ham and Cheese Empanada $2 • Malbec Beef Empanada $2 • Mushroom and Blue Cheese Empanada $2 • Ratatouille Empanada $2 • Spinach and Cheese Empanada $2 • Sweet Corn Empanada $2 • test popup  $0&lt;/p&gt;&lt;p&gt;Sides • Chimichurri SAuce $0 • Red Hot Sauce $0&lt;/p&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
